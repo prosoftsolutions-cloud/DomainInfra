@@ -44,7 +44,7 @@ npm install @prosoftsolutions/platform-infra
 ### Local Development
 
 ```bash
-git clone https://github.com/prosoftsolutions/platform-infra.git
+git clone https://github.com/prosoftsolutions-cloud/platform-infra.git
 cd platform-infra
 npm install
 ```
